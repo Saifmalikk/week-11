@@ -4,7 +4,7 @@
     <div class="about-content">
       <img src="/path/to/your/profile-picture.jpg" alt="Profile Picture" class="profile-picture">
       <p>
-        Hi there! I'm [Your Name], a passionate web developer with a keen interest in creating
+        Hi there! I'm Saif Malik, a passionate web developer with a keen interest in creating
         interactive and user-friendly websites and applications. I have [X years] of experience
         in web development and have worked on a variety of projects spanning different technologies
         and industries.
